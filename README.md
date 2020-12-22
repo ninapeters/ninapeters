@@ -1,6 +1,5 @@
-### Nice to meet you! 
 
-<br />
+### Nice to meet you! 
 
 🔭  I’m currently working on [resonance](https://github.com/ninapeters/resonance)\
 🌱  I’m currently learning everything ✨\
