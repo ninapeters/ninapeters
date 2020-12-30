@@ -2,10 +2,8 @@
 ### Nice to meet you! 
 
 🔭  I’m currently working on [resonance](https://github.com/ninapeters/resonance)\
-🌱  I’m currently learning everything ✨\
-👯  I’m looking to collaborate on exciting projects\
-🤔  I’m looking for help with improving my coding skills\
-💬  Ask me about web design\
+📫  You can contact me through [LinkedIn](https://www.linkedin.com/in/nina-peters-7a81b2201/)\
+💬  Ask me about (web) design\
 ⚡  Fun fact: I love crowd surfing
 
 <br />
