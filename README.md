@@ -8,5 +8,5 @@
 
 <br />
 
-![Ninas github stats](https://github-readme-stats.vercel.app/api?username=ninapeters&show_icons=true&theme=vue-dark&line_height=28&hide_title=true&disable_animations=true&hide=stars)
+![Ninas github stats](https://github-readme-stats.vercel.app/api?username=ninapeters&show_icons=true&theme=vue-dark&line_height=28&hide_title=true&hide=stars&hide_border=true)
 
